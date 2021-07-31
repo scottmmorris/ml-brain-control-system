@@ -1,0 +1,15 @@
+.vscode/
+Old_data_dump/
+Scott_EEG_Data/
+scott_real_model/
+Videos/
+SMMBCI.txt
+code/1D_CNN/
+code/2D_CNN/
+code/3D_CNN/
+code/__pycache__/
+code/fe_datasets/
+code/ModelResults/
+code/parallel_cnn_rnn/
+code/ProcessedDatasets/
+code/raw_data/
